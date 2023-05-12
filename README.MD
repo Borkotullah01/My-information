@@ -156,4 +156,9 @@ ___
 - [x] Task 03 complete
 - [x] Task 04 complete
 - [ ] Task 05 incomplete
-- [ ] Task 06 incomplete 
+- [ ] Task 06 incomplete  
+
+<br>
+
+<p>I have complete my BBA Hon's at Kushtia Govt College.
+I am a Webdeveloper</p>
