@@ -161,4 +161,4 @@ ___
 <br>
 
 <p>I have complete my BBA Hon's at Kushtia Govt College.
-I am a Webdeveloper</p>
+I am a Webdeveloper I complete my SSC in 2014 at Amla-sadarpur Secondary school.</p>
