@@ -155,5 +155,5 @@ ___
 - [x] Task 02 complete
 - [x] Task 03 complete
 - [x] Task 04 complete
-- [] Task 05 incomplete
-- [] Task 06 incomplete 
+- [ ] Task 05 incomplete
+- [ ] Task 06 incomplete 
